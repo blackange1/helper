@@ -2,13 +2,13 @@
 * [Write](#write)
 * [Unlink](#unlink)
 * [Search](#search)
-* [Search_count](#searchcount)
-* [Search_read](#searchread)
+* [Search_count](#search_count)
+* [Search_read](#search_read)
 * [Browse](#browse)
 * [Read](#read)
-* [Read_group](#readgroup)
-* [Default_get](#defaultget)
-* [Name_get](#nameget)
+* [Read_group](#read_group)
+* [Default_get](#default_get)
+* [Name_get](#name_get)
 
 ## Create
 

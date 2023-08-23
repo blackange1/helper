@@ -89,7 +89,7 @@ class Menu(object):
 CURRENT_PATH = Path.cwd()
 FILE_NAME = 'REDE_ME.md'
 # menu = Menu(CURRENT_PATH.joinpath(FILE_NAME))
-menu = Menu(CURRENT_PATH.joinpath('ODOO-ORM.md'))
+menu = Menu(CURRENT_PATH.joinpath('PYTHON-ODOO-LEARN.md'))
 menu.level_shift = 1
 menu.level_limit = 2
 menu.read_file()
